@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.project", "1.project", "{D29F2B4F-957B-487A-8470-03D90C33446B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		CHANGELOG.md = CHANGELOG.md
+		global.json = global.json
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.cicd", "2.cicd", "{535C0D8C-C5AC-45E8-87C1-F0AA264684B2}"
+	ProjectSection(SolutionItems) = preProject
+		.github\dependabot.yml = .github\dependabot.yml
+		.github\workflows\publish-nuget.yml = .github\workflows\publish-nuget.yml
+		.github\workflows\sonarcloud.yml = .github\workflows\sonarcloud.yml
+		.github\workflows\test-project.yml = .github\workflows\test-project.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.src", "3.src", "{A430036F-818A-4F0E-8CD7-0F5D60A6417B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PowerUtils.BuildingBlocks.Data", "src\PowerUtils.BuildingBlocks.Data.csproj", "{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{614BFF4E-29AA-4727-A5CE-86F6A1B13A1D} = {A430036F-818A-4F0E-8CD7-0F5D60A6417B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67317AC8-6A70-4756-B354-07E2D903C41D}
+	EndGlobalSection
+EndGlobal
