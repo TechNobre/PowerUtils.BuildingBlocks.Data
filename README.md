@@ -12,27 +12,27 @@
 [![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
 
 
+- [Support](#support-to)
+- [How to use](#how-to-use)
+- [Interfaces](#Interfaces)
+  - [IUnitOfWork](#Interfaces.IUnitOfWork)
+  - [IRepositoryBase](#Interfaces.IRepositoryBase)
+- [Contribution](#contribution)
+- [License](./LICENSE)
+- [Changelog](./CHANGELOG.md)
 
-## Support to
+
+
+## Support to <a name="support-to"></a>
 - .NET 3.1 or more
 - .NET Framework 4.6.2 or more
 - .NET Standard 2.0 or more
 
 
 
-## Features
+## How to use <a name="how-to-use"></a>
 
-- [Interfaces](#Interfaces)
-  - [IUnitOfWork](#Interfaces.IUnitOfWork)
-  - [IRepositoryBase](#Interfaces.IRepositoryBase)
-
-
-
-## Documentation
-
-### How to use
-
-#### Install NuGet package
+### Install NuGet package
 This package is available through Nuget Packages: https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data
 
 **Nuget**
@@ -69,18 +69,6 @@ public interface IRepositoryBase { }
 
 
 
-## Contribution
+## Contribution<a name="contribution"></a>
 
-*Help me to help others*
-
-
-
-## LICENSE
-
-[MIT](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
-
-
-
-## Changelog
-
-[Here](./CHANGELOG.md)
+If you have any questions, comments, or suggestions, please open an [issue](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/issues/new/choose) or create a [pull request](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/compare)
