@@ -6,7 +6,7 @@ Helpers to work with data layers
 
 [![NuGet](https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data)
 [![Nuget](https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data)
-[![License: MIT](https://img.shields.io/github/license/ofpinewood/http-exceptions.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
 
 
 
