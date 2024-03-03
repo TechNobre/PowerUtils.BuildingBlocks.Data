@@ -1,5 +1,9 @@
 # PowerUtils.BuildingBlocks.Data
 
+# :warning: DEPRECATED
+
+This package has been discontinued because it never evolved, and the code present in this package does not justify its continuation. It is preferable to implement this code directly in the project.
+
 ![Logo](https://raw.githubusercontent.com/TechNobre/PowerUtils.BuildingBlocks.Data/main/assets/logo/logo_128x128.png)
 
 ***Helpers to work with data layers***
@@ -12,14 +16,13 @@
 [![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
 
 
-- [Support](#support-to)
-- [How to use](#how-to-use)
-- [Interfaces](#Interfaces)
-  - [IUnitOfWork](#Interfaces.IUnitOfWork)
-  - [IRepositoryBase](#Interfaces.IRepositoryBase)
+- [Support to ](#support-to-)
+- [How to use ](#how-to-use-)
+  - [Install NuGet package](#install-nuget-package)
+  - [Interfaces ](#interfaces-)
+  - [IUnitOfWork ](#iunitofwork-)
+  - [IRepositoryBase ](#irepositorybase-)
 - [Contribution](#contribution)
-- [License](./LICENSE)
-- [Changelog](./CHANGELOG.md)
 
 
 
