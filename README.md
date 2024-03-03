@@ -8,11 +8,6 @@ This package has been discontinued because it never evolved, and the code presen
 
 ***Helpers to work with data layers***
 
-![Tests](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/actions/workflows/tests.yml/badge.svg)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TechNobre_PowerUtils.BuildingBlocks.Data&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TechNobre_PowerUtils.BuildingBlocks.Data)
-
-[![NuGet](https://img.shields.io/nuget/v/PowerUtils.BuildingBlocks.Data.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data)
-[![Nuget](https://img.shields.io/nuget/dt/PowerUtils.BuildingBlocks.Data.svg)](https://www.nuget.org/packages/PowerUtils.BuildingBlocks.Data)
 [![License: MIT](https://img.shields.io/github/license/TechNobre/PowerUtils.BuildingBlocks.Data.svg)](https://github.com/TechNobre/PowerUtils.BuildingBlocks.Data/blob/main/LICENSE)
 
 
